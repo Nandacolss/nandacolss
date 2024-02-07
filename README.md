@@ -14,9 +14,10 @@
 - **Curiosidades!**
 
 - **Professora de exatas**
+- **Pedagoga**
 - **Formado em 2004 pela Faculdade de Ciências e Letras de Paranavaí-Pr**
 - **Pós Graduada em Educação e Gestão Ambiental**
 - **Especialista em Perícia e Auditoria Ambiental**
 - **Filologia Espanhola na Universidade Complutense de Madrid Espanha**
-- **Pedagoga**
+
 

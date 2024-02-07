@@ -18,4 +18,5 @@
 - **Pós Graduada em Educação e Gestão Ambiental**
 - **Especialista em Perícia e Auditoria Ambiental**
 - **Filologia Espanhola na Universidade Complutense de Madrid Espanha**
+- ** Pedagoga**
 

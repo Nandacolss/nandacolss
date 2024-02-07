@@ -11,9 +11,11 @@
 - 📫 How to reach me:
 - 📳 (44)998986902
 - ✉️ E-mail: **fernanda.sanches.souza@escola.pr.gov.br**
-Professora de exatas
-Formado em 2004 pela Faculdade de Ciências e Letras de Paranavaí-Pr
-Pós Graduada em Educação e Gestão Ambiental
-Especialista em Perícia e Auditoria Ambiental
-Filologia Espanhola na Universidade Complutense de Madrid Espanha
+- **Curiosidades!**
+
+- **Professora de exatas**
+- **Formado em 2004 pela Faculdade de Ciências e Letras de Paranavaí-Pr**
+- **Pós Graduada em Educação e Gestão Ambiental**
+- **Especialista em Perícia e Auditoria Ambiental**
+- **Filologia Espanhola na Universidade Complutense de Madrid Espanha**
 

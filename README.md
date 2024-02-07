@@ -1,16 +1,20 @@
-### Hi there 👋
+###  vindas ao meu perfil 👋 
+**Professora : Fernanda Sanches 👩‍🏫**
 
-<!--
-**Nandacolss/nandacolss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**✨ https://github.com/Nandacolss/nandacolss**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Colégio Estadual Sao Vicente de Paula 🏫**
+- 🧑‍💻 Desenvolvo meus estudos na linguagem **JavaScript na Plataforma Alura**
+- 📚 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- 🎒 I’m looking to collaborate no estudo de Programação 
+- 💬 Ask me abou suas dificuldades no processo da aprendizagem
+- 📫 How to reach me:
+- 📳 (44)998986902
+- ✉️ E-mail: **fernanda.sanches.souza@escola.pr.gov.br**
+- ⚡ Fun fact:
+-  Professora de exatas
+-  Formada em 2004 pela **Faculdade de Ciências e Letras de Paranavaí-Pr**
+-  Pós Graduada em **Educação e Gestão Ambiental**
+-  Especialista em **Perícia e Auditoria Ambiental**
+-  **Filologia Española na Universidad Complutense de Madrid España**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
